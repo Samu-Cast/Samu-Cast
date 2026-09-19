@@ -2,16 +2,10 @@
 
 # Hi there, I'm Sam.
 
-### Cybersecurity Engineering MSc Student @ PoliTo | CS Graduate @ Univaq
+### Cybersecurity Engineering MSc Student @ PoliTo | CS Graduate @ UnivAq
 
-I build secure architectures, automate workflows, and tinker with embedded systems and containerization.
-
+Passionate about cybersecurity, a field I actively cultivate through both independent research and formal academic training. I enjoy tackling complex technical challenges and building reliable, efficient software.
 <br>
-
-<img
-  src="https://skillicons.dev/icons?i=python,c,cpp,java,php,mysql,html,css,docker,githubactions,git,linux&perline=12"
-  alt="Python, C, C++, Java, PHP, SQL, HTML, CSS, Docker, GitHub Actions, Git, Linux"
-/>
 
 </div>
 
@@ -84,5 +78,10 @@ It reflects my most recent work in Cybersecurity, Automation, and Software Engin
     alt="Email Me"
   />
 </a>
+
+<img
+  src="https://skillicons.dev/icons?i=python,c,cpp,java,php,mysql,html,css,docker,githubactions,git,linux&perline=12"
+  alt="Python, C, C++, Java, PHP, SQL, HTML, CSS, Docker, GitHub Actions, Git, Linux"
+/>
 
 </div>
